@@ -2,4 +2,4 @@
 title: Echo Spectrum Blog
 ---
 
-Response soon.
+Write something here.
