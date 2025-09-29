@@ -1,3 +1,6 @@
 theme: minima
 title: Echo Spectrum Blog
 description: Turning our inside voices for outdoor interpretation.
+
+header_pages:
+  - about.md
