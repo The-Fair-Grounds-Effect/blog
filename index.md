@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Echo Spectrum Blog
 ---
 
+Write something here.
